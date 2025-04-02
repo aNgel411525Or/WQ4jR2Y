@@ -10,7 +10,6 @@
   },
   "extends": [
     "eslint:recommended",
-    "google",
   ],
   "globals": {
     "safari": false
