@@ -1604,7 +1604,6 @@
       "dev": true,
       "engines": {
         "node": ">=0.12.0"
-      }
     },
     "node_modules/is-potential-custom-element-name": {
       "version": "1.0.1",
