@@ -12,7 +12,6 @@ sudo chmod +x ./install
 sudo ./install auto
 sudo service codedeploy-agent status
 
-curl -sL https://rpm.nodesource.com/setup_12.x | sudo bash -
 sudo yum install -y nodejs
 
 #my-hair-done
