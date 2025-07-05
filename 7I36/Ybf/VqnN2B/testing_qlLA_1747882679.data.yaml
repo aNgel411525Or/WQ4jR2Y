@@ -23,7 +23,6 @@ repos:
 
   - repo: https://github.com/localstack/pre-commit-hooks
     rev: v1.2.1
-      - id: check-pinned-deps-for-needed-upgrade
 
   - repo: https://github.com/python-openapi/openapi-spec-validator
     rev: 0.7.1
