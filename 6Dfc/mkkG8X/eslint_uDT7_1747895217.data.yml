@@ -12,5 +12,4 @@ coverage:
         threshold: 2%
 
 comment:
-  layout: diff, flags, files
   require_changes: true
