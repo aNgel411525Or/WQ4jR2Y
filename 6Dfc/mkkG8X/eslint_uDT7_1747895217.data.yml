@@ -9,7 +9,6 @@ coverage:
       default:
     project:
       default:
-        target: auto
         threshold: 2%
 
 comment:
