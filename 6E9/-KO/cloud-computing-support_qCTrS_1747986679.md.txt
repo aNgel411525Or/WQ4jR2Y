@@ -13,7 +13,6 @@ sudo service codedeploy-agent status
 sudo yum install -y nodejs
 
 cd /home/ec2-user/
-sudo git clone https://github.com/lucasfdsilva/my-hair-done.git
 cd /home/ec2-user/my-hair-done/backend
 sudo npm install
 
