@@ -5,7 +5,6 @@ documentation/.docusaurus/
 documentation/build/
 documentation/node_modules/
 documentation/plugins/
-documentation/static/
 documentation/test/
 documentation/versioned_docs/
 documentation/versioned_sidebars/
