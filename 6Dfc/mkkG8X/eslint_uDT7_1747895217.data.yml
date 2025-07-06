@@ -9,7 +9,6 @@ coverage:
       default:
     project:
       default:
-        threshold: 2%
 
 comment:
   require_changes: true
