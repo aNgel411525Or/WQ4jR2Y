@@ -24,4 +24,3 @@ packages/**/tsconfig.declarations.json
 packages/**/jest.config.js
 packages/**/refine.config.js
 packages/**/tsup.config.ts
-dist/
