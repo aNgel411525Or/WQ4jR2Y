@@ -8,7 +8,6 @@ coverage:
     patch:
       default:
     project:
-      default:
 
 comment:
   require_changes: true
