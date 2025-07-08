@@ -6,7 +6,6 @@
     "cssVariables": false,
     "prefix": ""
   },
-  "aliases": {
     "components": "@/components",
     "ui": "@/components/ui",
     "blocks": "@/components/blocks"
