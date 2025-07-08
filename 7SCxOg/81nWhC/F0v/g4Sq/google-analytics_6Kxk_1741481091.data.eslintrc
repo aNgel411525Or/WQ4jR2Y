@@ -15,6 +15,5 @@
       "globals": {
         "assert": false,
         "sinon": false
-    }
   ]
 }
