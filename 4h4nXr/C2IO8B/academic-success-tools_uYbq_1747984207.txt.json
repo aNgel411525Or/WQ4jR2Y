@@ -8,7 +8,6 @@
   },
   "aliases": {
     "components": "@/components",
-    "utils": "@/lib/utils",
     "ui": "@/components/ui",
     "blocks": "@/components/blocks"
   }
