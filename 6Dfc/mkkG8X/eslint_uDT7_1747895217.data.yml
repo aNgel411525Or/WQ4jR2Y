@@ -2,7 +2,6 @@
   notify:
     wait_for_ci: no
 coverage:
-  status:
     project:
 
 comment:
