@@ -2,7 +2,6 @@
   notify:
     wait_for_ci: no
 coverage:
-    project:
 
 comment:
   require_changes: true
