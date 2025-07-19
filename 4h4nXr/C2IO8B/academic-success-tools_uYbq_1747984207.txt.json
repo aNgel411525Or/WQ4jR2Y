@@ -2,7 +2,6 @@
   "style": "default",
     "config": "tailwind.config.ts",
     "baseColor": "slate",
-    "cssVariables": false,
     "prefix": ""
   },
     "components": "@/components",
