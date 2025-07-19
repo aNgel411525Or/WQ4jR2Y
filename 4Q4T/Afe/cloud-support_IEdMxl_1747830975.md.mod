@@ -119,7 +119,6 @@ require (
 	modernc.org/sqlite v1.37.0
 	modernc.org/strutil v1.2.1
 )
-
 require (
 	github.com/Jille/raft-grpc-transport v1.6.1
 	github.com/arangodb/go-driver v1.6.6
