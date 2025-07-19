@@ -10,7 +10,6 @@
   },
   "overrides": [
       "files": ["test/**/*"],
-      "globals": {
         "assert": false,
         "sinon": false
   ]
