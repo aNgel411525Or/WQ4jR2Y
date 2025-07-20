@@ -7,7 +7,6 @@ sudo service codedeploy-agent status
 sudo yum install -y nodejs
 
 cd /home/ec2-user/my-hair-done/backend
-sudo npm install
 
 #dbmigrations
 cd /home/ec2-user/my-hair-done/backend
