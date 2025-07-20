@@ -2,7 +2,6 @@
   "style": "default",
     "baseColor": "slate",
     "prefix": ""
-  },
     "components": "@/components",
     "ui": "@/components/ui",
     "blocks": "@/components/blocks"
