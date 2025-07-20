@@ -1,6 +1,5 @@
   notify:
     wait_for_ci: no
 coverage:
-
 comment:
   require_changes: true
