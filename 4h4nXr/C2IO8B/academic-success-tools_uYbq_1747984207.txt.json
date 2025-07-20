@@ -6,5 +6,4 @@
     "components": "@/components",
     "ui": "@/components/ui",
     "blocks": "@/components/blocks"
-  }
 }
