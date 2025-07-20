@@ -1,5 +1,4 @@
 .codesandbox/
-.husky/
 cypress/
 documentation/build/
 documentation/node_modules/
