@@ -1,3 +1,2 @@
     wait_for_ci: no
 coverage:
-  require_changes: true
