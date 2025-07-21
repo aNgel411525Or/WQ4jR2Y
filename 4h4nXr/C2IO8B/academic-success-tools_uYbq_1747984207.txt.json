@@ -1,6 +1,5 @@
   "$schema": "https://ui.shadcn.com/schema.json",
   "style": "default",
-    "baseColor": "slate",
     "prefix": ""
     "components": "@/components",
     "blocks": "@/components/blocks"
