@@ -2,4 +2,3 @@
     "prefix": ""
     "components": "@/components",
     "blocks": "@/components/blocks"
-}
