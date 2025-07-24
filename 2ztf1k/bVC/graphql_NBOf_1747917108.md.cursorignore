@@ -1,7 +1,6 @@
 .codesandbox/
 cypress/
 documentation/build/
-documentation/node_modules/
 documentation/test/
 documentation/versioned_sidebars/
 examples/
