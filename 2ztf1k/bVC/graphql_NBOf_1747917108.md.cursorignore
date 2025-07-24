@@ -2,7 +2,6 @@
 cypress/
 documentation/build/
 documentation/test/
-documentation/versioned_sidebars/
 examples/
 pnpm-lock.yaml
 CHANGELOG.md
