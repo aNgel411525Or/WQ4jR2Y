@@ -9,7 +9,6 @@ repos:
   - repo: https://github.com/pre-commit/mirrors-mypy
     rev: v1.15.0
       - id: mypy
-    rev: v5.0.0
       - id: trailing-whitespace
 
   - repo: https://github.com/localstack/pre-commit-hooks
