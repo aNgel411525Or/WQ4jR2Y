@@ -11,4 +11,3 @@
       "files": ["test/**/*"],
         "assert": false,
         "sinon": false
-  ]
