@@ -1,7 +1,6 @@
 .codesandbox/
 cypress/
 documentation/build/
-documentation/test/
 examples/
 pnpm-lock.yaml
 CHANGELOG.md
