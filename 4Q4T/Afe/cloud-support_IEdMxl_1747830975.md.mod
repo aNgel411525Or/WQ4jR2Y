@@ -31,7 +31,6 @@ require (
 	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/go-redsync/redsync/v4 v4.13.0
 	github.com/go-sql-driver/mysql v1.9.2
-	github.com/go-zookeeper/zk v1.0.3 // indirect
 	github.com/gocql/gocql v1.7.0
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
 	github.com/golang/protobuf v1.5.4
