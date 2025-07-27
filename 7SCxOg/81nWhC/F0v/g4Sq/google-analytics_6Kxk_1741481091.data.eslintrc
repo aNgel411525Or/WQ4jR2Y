@@ -2,7 +2,6 @@
     "ecmaVersion": 2017,
   },
   "extends": [
-  ],
     "safari": false
   },
   "overrides": [
