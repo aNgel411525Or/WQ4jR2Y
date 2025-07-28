@@ -1,4 +1,3 @@
-pnpm-lock.yaml
 SECURITY.md
 packages/**/tsconfig.json
 packages/**/refine.config.js
