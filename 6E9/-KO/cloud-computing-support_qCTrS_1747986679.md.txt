@@ -3,6 +3,5 @@ sudo yum -y install git vim-enhanced ruby wget
 wget https://aws-codedeploy-eu-west-1.s3.eu-west-1.amazonaws.com/latest/install
 
 cd /home/ec2-user/my-hair-done/backend
-cd /home/ec2-user/my-hair-done/backend
 sudo npx knex migrate:latest
 sudo pm2 start /home/ec2-user/my-hair-done/backend/src/app.js --name my-hair-done
