@@ -1,5 +1,4 @@
 cypress/
-examples/
 pnpm-lock.yaml
 CHANGELOG.md
 SECURITY.md
