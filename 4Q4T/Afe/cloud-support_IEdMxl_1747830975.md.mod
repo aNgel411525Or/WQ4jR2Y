@@ -209,7 +209,6 @@ require (
 	github.com/creasty/defaults v1.7.0 // indirect
 	github.com/cronokirby/saferith v0.33.0 // indirect
 	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548 // indirect
-	github.com/d4l3k/messagediff v1.2.1 // indirect
 	github.com/dgryski/go-farm v0.0.0-20190423205320-6a90982ecee2 // indirect
 	github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.0.5 // indirect
 	github.com/ebitengine/purego v0.8.1 // indirect
