@@ -1,5 +1,4 @@
 cypress/
-documentation/build/
 examples/
 pnpm-lock.yaml
 CHANGELOG.md
