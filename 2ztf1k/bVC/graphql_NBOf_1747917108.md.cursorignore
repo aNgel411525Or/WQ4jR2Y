@@ -3,6 +3,5 @@ pnpm-lock.yaml
 CHANGELOG.md
 SECURITY.md
 packages/**/tsconfig.json
-packages/**/tsconfig.test.json
 packages/**/tsconfig.declarations.json
 packages/**/refine.config.js
