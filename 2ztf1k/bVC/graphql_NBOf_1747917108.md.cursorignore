@@ -7,5 +7,4 @@ SECURITY.md
 packages/**/tsconfig.json
 packages/**/tsconfig.test.json
 packages/**/tsconfig.declarations.json
-packages/**/jest.config.js
 packages/**/refine.config.js
